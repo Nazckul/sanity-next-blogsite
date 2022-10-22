@@ -48,7 +48,7 @@ export default function Home({ initialPosts, total }) {
         <title>My blog</title>
       </Head>
       <Section>
-        <Cover title="Elena<br />Litvinova" />
+        <Cover title="Nueza<br />Web <br /> Blog" />
         <SocialNetworks />
         <BuyMeCoffee />
       </Section>

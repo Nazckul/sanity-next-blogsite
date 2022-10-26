@@ -5,25 +5,26 @@ import { AiFillGithub, AiFillYoutube, AiFillTwitterCircle, AiFillLinkedin } from
 import ScreenEgg from '../ScreenEgg';
 import styles from './index.module.scss';
 
+
 const socialNetworks = [
   {
     id: 1,
-    href: 'https://github.com/liveldi',
+    href: 'https://github.com/Nazckul',
     icon: AiFillGithub,
   },
   {
     id: 2,
-    href: 'https://www.youtube.com/channel/UCdw1R35g3uDj4LVt1-aS-hA',
+    href: 'https://www.nuezaweb.com',
     icon: AiFillYoutube,
   },
   {
     id: 3,
-    href: 'https://twitter.com/webelart',
+    href: 'https://twitter.com/nuezaweb',
     icon: AiFillTwitterCircle
   },
   {
     id: 4,
-    href: 'https://www.linkedin.com/in/elena-litvinova-574424216/',
+    href: 'https://www.linkedin.com/in/stefano-copreni-2786871a2/',
     icon: AiFillLinkedin
   }
 ];
